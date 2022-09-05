@@ -36,6 +36,4 @@ FillArray(array);
 PrintArray(array);
 Summ(array);
 
-
-
 Console.WriteLine($"Колличество элементов в массиве: {count} , сумма {s}");
